@@ -1,0 +1,13 @@
+****** ANOTAÇÕES ******
+
+-- LINKS ULTEIS 
+
+# MEDIO: ui-lab-school / ux-strategy
+# https://www.ideo.com
+# https://material.io
+# YOUTUBE: UX Lab / UX Now
+
+-- LIVROS
+
+# Não me faça pensar: uma abordagem de senso comum para a usabilidade na web
+# Arquitetura da informação para World Wide Web: projetando sites da Web em grande escala

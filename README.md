@@ -6,7 +6,7 @@
 
 
 
-##### Lista dos cursos realizados :books:
+##### Lista dos cursos finalizados :books:
 
 
 
@@ -17,7 +17,7 @@
 5. **Criando seu Primeiro respositório no GitHub para Compartilhar seu progresso**
 6. **Introdução a cração de websites com HTML5 e CSS3**
 7. **Posicionando elementos com Flexbox em CSS**
-8. 
+8. **Conceitos de resposividade e experiência do usuário**
 
 
 
